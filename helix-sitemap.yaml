@@ -2,7 +2,7 @@ version: 1
 
 sitemaps:
   website:
-    origin: https://main--milotraining--jackysun9.hlx.page/
+    origin: https://main--milotraining--jackysun9.hlx.page
     lastmod: YYYY-MM-DD
     languages:
       default:
